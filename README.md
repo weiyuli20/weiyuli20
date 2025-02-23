@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+三分钟热度选手，长期主义修炼中...
 <!--
 **weiyuli20/weiyuli20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
